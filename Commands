@@ -1,0 +1,36 @@
+Git Commands Practice Report
+
+*1. Git Init*
+- Purpose: Initializes a new Git repository.
+- Usage: `git init`
+- Example: `git init intern assignment 
+*2. Git Clone*
+- Purpose: Clones an existing Git repository.
+- Usage: `git clone <repository-url>`
+- Example: `git clone (https://github.com/Dharshini-d71/intern-assginment.git)
+*3. Git Branch*
+- Purpose: Lists, creates, or deletes branches.
+- Usage: `git branch <branch-name>`
+- Example: `git branch feature-xyz`
+*4. Git Checkout*
+- Purpose: Switches between branches or restores working tree files.
+- Usage: `git checkout <branch-name>`
+- Example: `git checkout feature-xyz`
+*5. Git Merge*
+- Purpose: Merges changes from one branch to another.
+- Usage: `git merge <branch-name>`
+- Example: `git merge feature-xyz
+*6. Git Pull*
+- Purpose: Fetches changes from a remote repository and merges them.
+- Usage: `git pull <remote-repo> <branch-name>`
+- Example: `git pull origin main`
+*7. Git Push*
+- Purpose: Uploads changes to a remote repository.
+- Usage: `git push <remote-repo> <branch-name>`
+- Example: `git push origin feature-xyz` 
+*8. Git Status*
+- Purpose: Displays the status of the working tree.
+- Usage: `git status`
+*9. Git Log*
+- Purpose: Displays a log of commits made to the repository.
+- Usage: `git log`
